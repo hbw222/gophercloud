@@ -3,7 +3,7 @@ Package loadbalancers provides information and interaction with Load Balancers
 of the LBaaS v2 extension for the OpenStack Networking service.
 
 Example to List Load Balancers
-
+//test
 	listOpts := loadbalancers.ListOpts{
 		Provider: "haproxy",
 	}
